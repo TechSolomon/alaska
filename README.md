@@ -1,2 +1,2 @@
 # alaska
-Interactive map of the Alaska Startup community.
+State of Alaska Open Data Portal [Archive]
