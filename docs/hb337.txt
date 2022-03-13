@@ -1,0 +1,115 @@
+
+00                             HOUSE BILL NO. 337                                                                          
+01 "An Act relating to the establishment of a central Internet website for public access to                                
+02 the public records of state agencies and municipalities; and providing for an effective                                 
+03 date."                                                                                                                  
+04 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:                                                                
+05    * Section 1. AS 40.25 is amended by adding new sections to read:                                                   
+06                 Article 3. Central Website for Public Records.                                                        
+07            Sec. 40.25.400. Establishment of central website. (a) In addition to the                                   
+08       authority given to state agencies to provide electronic services and products to                                  
+09       members of the public under AS 40.25.115, the department shall develop, operate, and                              
+10       maintain a central Internet website that contains all of the public records of state                              
+11       agencies that existed in electronic format on December 31, 2014, or are developed or                              
+12       received by a state agency, or by a private contractor for a state agency, on or after                            
+13       January 1, 2015. The department may include on the Internet website public records                                
+14       that were developed or received by a state agency, or by a private contractor for a state                         
+01       agency, before January 1, 2015, but that did not exist in electronic format on                                    
+02       December 31, 2014.                                                                                                
+03            (b)  The department may include the public records of a municipality on the                                  
+04       central website if the municipality requests that the department include its public                               
+05       records on the central website, and the department shall assist the municipality to                               
+06       place its public records on the central website.                                                                  
+07            Sec. 40.25.410. Requirements for website. (a) The central website must                                     
+08                 (1)  allow a member of the public to access and copy a public record                                    
+09       from a computer without limiting the quantity of public records copied;                                           
+10                 (2)  provide public records in an understandable and useable form;                                      
+11                 (3)  organize the public records in a manner that identifies the general                                
+12       nature of the public records and each public record provided on the central website;                              
+13                 (4)  provide public records in an electronic format that                                                
+14                      (A)  can be read by computer;                                                                      
+15                      (B)  is available to the public and not privately owned or                                         
+16            operated;                                                                                                    
+17                      (C)  allows a user to search and sort the information in the                                       
+18            public records; and                                                                                          
+19                      (D)  is able to run on more than one computer operating system.                                    
+20            (b)  The department may not charge members of the public to access the                                       
+21       central website, to search the central website, or to make copies of public records on                            
+22       the central website and may not require members of the public to use a security code,                             
+23       including a password, to access the central website.                                                              
+24            Sec. 40.25.440. Handbook. The department shall develop and maintain a                                      
+25       procedure handbook for a state agency to use when it develops and provides the                                    
+26       department with the agency's public records for the central website. The handbook                                 
+27       must include                                                                                                      
+28                 (1)  a list of acceptable electronic formats for the public records;                                    
+29                 (2)  the method for transferring public records to the central website;                                 
+30       and                                                                                                               
+31                 (3)  methods for organizing the public records.                                                         
+01            Sec. 40.25.450. State agency obligations. A state agency shall provide the                                 
+02       department with its public records for placement on the central website and with                                  
+03       general descriptions of the categories of the state agency's records that are not public                          
+04       records.                                                                                                          
+05            Sec. 40.25.460. Updates. A state agency shall provide updates of its public                                
+06       records to the department every three months, and the department shall update the                                 
+07       central website every three months.                                                                               
+08            Sec. 40.25.480. Regulations. The department may adopt regulations to                                       
+09       implement AS 40.25.400 - 40.25.490.                                                                             
+10            Sec. 40.25.490. Definitions. In AS 40.25.400 - 40.25.490,                                                  
+11                 (1)  "central website" means the central Internet website established                                   
+12       under AS 40.25.400;                                                                                               
+13                 (2)  "computer" includes a cellular telephone and other personal                                        
+14       electronic devices;                                                                                               
+15                 (3)  "department" means the Department of Administration;                                               
+16                 (4)  "public records" means records that are open to public inspection                                  
+17       under AS 40.25.120;                                                                                               
+18                 (5)  "records" means books, papers, files, accounts, writings, including                                
+19       drafts and memorializations of conversations, and other items, regardless of format or                            
+20       physical characteristics, that are developed or received by a state agency or                                     
+21       municipality, or by a private contractor for a state agency or municipality, and that are                         
+22       preserved for their informational value or as evidence of the organization or operation                           
+23       of a state agency or municipality; in this paragraph, "items" does not include                                    
+24       proprietary software programs;                                                                                    
+25                 (6)  "state agency" means a department, division, or other                                              
+26       administrative unit of the executive branch of state government; in this paragraph,                               
+27       "other administrative unit" does not include                                                                      
+28                      (A)  the University of Alaska;                                                                     
+29                      (B)  the Alaska Railroad Corporation;                                                              
+30                      (C)  the Alaska Housing Finance Corporation;                                                       
+31                      (D)  the Alaska Aerospace Corporation;                                                             
+01                      (E)  the Alaska Industrial Development and Export Authority;                                       
+02                      (F)  a public corporation.                                                                         
+03    * Sec. 2. The uncodified law of the State of Alaska is amended by adding a new section to                          
+04 read:                                                                                                                   
+05       TRANSITION: INITIAL AGENCY DELIVERY OF PUBLIC RECORDS. (a) By                                                     
+06 July 1, 2015, a state agency shall provide to the department for the central website its public                         
+07 records that are in electronic form on December 31, 2014.                                                               
+08       (b)  By January 1, 2016, a state agency shall provide to the department for the central                           
+09 website the public records developed or received by the state agency, or by a private                                   
+10 contractor for the state agency, on or after January 1, 2015.                                                           
+11       (c)  If a state agency is not able to meet a date set under (a) or (b) of this section, the                       
+12 state agency and the department shall establish a reasonable schedule for providing the public                          
+13 records.                                                                                                                
+14       (d)  In this section, "central website," "department," "public records," and "state                               
+15 agency" have the meanings given in AS 40.25.490, enacted by sec. 1 of this Act.                                         
+16    * Sec. 3. The uncodified law of the State of Alaska is amended by adding a new section to                          
+17 read:                                                                                                                   
+18       TRANSITION: DELAYED AVAILABILITY. The central website established under                                           
+19 AS 40.25.400, enacted by sec. 1 of this Act, shall be available to the public on and after                              
+20 July 1, 2016.                                                                                                           
+21    * Sec. 4. The uncodified law of the State of Alaska is amended by adding a new section to                          
+22 read:                                                                                                                   
+23       TRANSITION: INITIAL UPDATE OF AGENCY RECORDS. (a) On or before                                                    
+24 July 1, 2016, a state agency shall provide to the department the first update of its public                             
+25 records.                                                                                                                
+26       (b)  On or before October 1, 2016, the department shall provide its first update of the                           
+27 central website.                                                                                                        
+28       (c)  In this section, "central website," "department," "public records," and "state                               
+29 agency" have the meanings given in AS 40.25.490, enacted by sec. 1 of this Act.                                         
+30    * Sec. 5. The uncodified law of the State of Alaska is amended by adding a new section to                          
+31 read:                                                                                                                   
+01       TRANSITION: REGULATIONS. The Department of Administration may adopt                                               
+02 regulations under AS 40.25.480, enacted by sec. 1 of this Act, necessary to implement this                              
+03 Act. The regulations take effect under AS 44.62 (Administrative Procedure Act), but not                                 
+04 before January 1, 2015.                                                                                                 
+05    * Sec. 6. Section 5 of this Act takes effect immediately under AS 01.10.070(c).                                    
+06    * Sec. 7. Except as provided in sec. 6 of this Act, this Act takes effect January 1, 2015.                         
